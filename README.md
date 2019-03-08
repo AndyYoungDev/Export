@@ -5,7 +5,7 @@
 ## Wechat
 ylf283598349
 ## Example
-* composer require yang-longfei/export-file
+* composer require yanglongfei/export
 ~~~
 $data=[
     ['id'=>1],

@@ -1,6 +1,6 @@
 {
     "name": "yanglongfei/export",
-    "description": "php",
+    "description": "php导出，支持Txt和Excel",
     "type": "library",
     "authors": [
         {
