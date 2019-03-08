@@ -1,0 +1,21 @@
+{
+    "name": "yanglongfei/export",
+    "description": "php",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yanglongfei",
+            "email": "283598349@qq.com"
+        }
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExportFile\\": "src/"
+        }
+    }
+}
